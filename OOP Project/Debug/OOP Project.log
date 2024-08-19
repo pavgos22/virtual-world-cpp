@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\USER\source\repos\OOP Project\OOP Project\Main.cpp(13,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  OOP Project.vcxproj -> C:\Users\USER\source\repos\OOP Project\Debug\OOP Project.exe
